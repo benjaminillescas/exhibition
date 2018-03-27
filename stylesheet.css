@@ -15,7 +15,7 @@ h2 {
 h3{
 	color:#ffffff;
 	font-family:Times New Roman;
-	font-size :15px;
+	font-size :20px;
 	text-align: center;
 }
 p {
@@ -39,3 +39,8 @@ img{
 body{
 	background-color: #000000;
 }
+.115{
+	display: grid;
+	grid-template-columns
+}
+
