@@ -1,0 +1,41 @@
+h1 {
+	 color:#ffffff;
+	 font-family:garamond;
+	 font-size:75px;
+	 text-align:center;
+	 text-transform:uppercase;
+	 
+}
+h2 {
+	 color:#ffffff;
+	 font-family:Times New Roman;
+	 font-size:65px;
+	 text-align:center;
+}
+h3{
+	color:#ffffff;
+	font-family:Times New Roman;
+	font-size :15px;
+	text-align: center;
+}
+p {
+	color:#ffffff;
+	 font-family:Times New Roman;
+	 font-size:35px;
+	 text-align:center;
+}
+.heading {
+	background:url("images/lightbackground.jpg");
+	height: 175px;
+	background-size:100vw;
+	
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width:550px;
+}
+body{
+	background-color: #000000;
+}
